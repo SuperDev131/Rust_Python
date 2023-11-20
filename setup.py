@@ -13,8 +13,8 @@ with open("README.md", "r") as fh:
 
 
 setup(
-    name="flitton_fib_py",
-    version="1.0",
+    name="flitton_fib_py_110",
+    version="1.0.0",
     author="Super Dev",
     author_email="s.d19941130@gmail.com",
     description="Calculates a Fibonacci number",
