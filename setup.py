@@ -20,7 +20,7 @@ setup(
     description="Calculates a Fibonacci number",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/maxwellflitton/flitton-fib-py",
+    url="https://github.com/SuperDev131/Rust_Python.git",
     install_requires=[
         "PyYAML>=4.1.2",
         "dill>=0.2.8"
