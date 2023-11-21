@@ -26,3 +26,4 @@ typing-extensions==3.10.0.0
 urllib3==1.26.5
 webencodings==0.5.1
 zipp==3.4.1
+flitton_fib_py_110==1.0.1

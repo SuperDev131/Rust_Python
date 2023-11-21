@@ -14,7 +14,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="flitton_fib_py_110",
-    version="1.0.0",
+    version="1.0.1",
     author="Super Dev",
     author_email="s.d19941130@gmail.com",
     description="Calculates a Fibonacci number",
